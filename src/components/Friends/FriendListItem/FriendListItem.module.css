@@ -1,0 +1,27 @@
+.status{
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 1px solid #5235d4;
+    padding: 5px;
+
+}
+.avatar{
+    width: 48px;
+}
+
+.name{
+    width: 50px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.14;
+    color: #5235d4;
+}
